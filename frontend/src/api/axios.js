@@ -1,5 +1,5 @@
 import axios from "axios"
-const api=axios.create({baseURL:"http://localhost:5000/api"});
+const api=axios.create({baseURL:"https://tracksell-log-seller.onrender.com/api"});
 api.interceptors.request.use((config)=>{
     const user=JSON.parse(localStorage.getItem("user")||("null"));
     if(user?.token){
