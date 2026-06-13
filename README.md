@@ -1,6 +1,6 @@
 # 🛒 TrackSell- A Daily Sales Logger — MERN Stack
 
-A simple app for kirana shop owners to log daily sales, track revenue, and see best-selling products.
+Hi, My name is Prathmesh Malunjkar(Pratham2005), I have developed,A simple app for kirana shop owners to log daily sales, track revenue, and see best-selling products.
 
 ---
 
@@ -74,7 +74,7 @@ Open http://localhost:5173
 ---
 
 ## 🚀 Deploy
-
+I deploy the application on Vercel+render.
 - Backend → Render.com
 - Frontend → Vercel
 - Database → MongoDB Atlas (free)
