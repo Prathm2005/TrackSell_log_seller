@@ -1,6 +1,6 @@
 # 🛒 TrackSell- A Daily Sales Logger — MERN Stack
 
-Hi, My name is Prathmesh Malunjkar(Pratham2005), I have developed,A simple app for kirana shop owners to log daily sales, track revenue, and see best-selling products.
+Hi, My name is Prathmesh Malunjkar(Prathm2005), I have developed,A simple app for kirana shop owners to log daily sales, track revenue, and see best-selling products.
 
 ---
 
