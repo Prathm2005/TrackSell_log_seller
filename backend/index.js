@@ -10,7 +10,10 @@ connectDB();
 
 const app=express();
 app.use(express.json());
-app.use(cors());
+app.use(cors({
+    origin: "*",
+  credentials: false,
+}));
 
 app.use("/api/auth",Auth);
 app.use("/api/product",Product);
