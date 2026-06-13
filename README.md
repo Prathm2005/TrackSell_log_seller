@@ -78,3 +78,5 @@ Open http://localhost:5173
 - Backend → Render.com
 - Frontend → Vercel
 - Database → MongoDB Atlas (free)
+
+---
