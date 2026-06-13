@@ -1,4 +1,4 @@
-# 🛒 Daily Sales Logger — MERN Stack
+# 🛒 TrackSell- A Daily Sales Logger — MERN Stack
 
 A simple app for kirana shop owners to log daily sales, track revenue, and see best-selling products.
 
